@@ -15,7 +15,7 @@
 		<!-- Header -->
 			<section id="header">
 				<header>
-					<span class="image avatar"><img src="images/Logo.jpg" /></span>
+					<span class="image avatar"><img src="images/logo.jpg" /></span>
 					<h1 id="logo"><a>Nicholas Parente</a></h1>
 					<p>BS in Computer Science from Southern New Hampshire University<br />
 				</header>
@@ -24,8 +24,8 @@
 						<li><a href="#one" class="active">Professional Self-Assessment:</a></li>
 						<li><a href="#two">Artifact Enhancements and Code Reviews</a></li>
 						<li><a href="#three">Narrative for the Software Design and Engineering Artifact Enhancement</a></li>
-						<li><a href="#four">Narrative for the Software Design and Engineering Artifact Enhancement</a></li>
-						<li><a href="#five">Narrative for the Software Design and Engineering Artifact Enhancement</a></li>
+						<li><a href="#four">Narrative for the Algorithms and Data Structure Artifact Enhancement</a></li>
+						<li><a href="#five">Narrative for the Databases Artifact Enhancement</a></li>
 						<li><a href="#six">Contact</a></li>
 					</ul>
 				</nav>
@@ -46,7 +46,7 @@
 						<!-- One -->
 							<section id="one">
 								<div class="image main" data-position="center">
-									<img src="images/banner.jpeg" />
+									<img src="images/banner.jpeg" alt="" />
 								</div>
 								<div class="container">
 										<h2>Professional Self-Assessment<br /></h2>
@@ -173,13 +173,52 @@
 								</div>
 							</section>
 
-							<!-- Four -->
-							<section id="four">
+							<!-- Five -->
+							<section id="five">
 								<div class="container">
 									<h3>Narrative for the Databases Artifact Enhancement:</h3>
 									<p></p>
 									<div class="container">
-
+										<p>The artifact selected for this enhancement is an application designed for CS-340: Client/Server Development. This was a mock application 
+											created for a client named Grazioso Salvare, an animal trainer that is looking to find specific types of dogs within a set of data that 
+											would be best suited for certain applications, such as disaster and tracking, mountain and wilderness, and water. The application was 
+											created during the Winter 2020 semester as part of the course requirements, and it was initially programmed in Python using a multitude 
+											of different external Graphical User Interface (GUI) imports, as well as using a MondoDB database to store and retrieve the data.</p>
+										<p>This item was selected for my ePortfolio because not only does this application demonstrate my ability to work with query languages, 
+											but it also demonstrates my ability to create an application that can handle back-end server interaction, which differs from other 
+											database-related coursework that only worked with manipulating database data within their respective terminals. This artifact was 
+											developed within a Linux virtual machine environment provided by the course, which used an external MongoDB database, Python 2.7, 
+											and a multitude of external dependencies pre-integrated into the Integrated Development Environment (IDE). Because of this, it 
+											would require multiple installations and re-configuring in order to work with the application, yet alone run it. The only data 
+											available that could be re-used was the .csv data file used to originally populate the database.The artifact was improved upon by 
+											re-creating the application within Java using the Derby database driver libraries, as well as the Java Swing libraries, to provide 
+											the back-end server interaction and front-end GUI interaction. This removes the need for external dependencies and allows for users 
+											to easily access the application without any re-configuring or installation, as well as not having to initialize a database prior to 
+											running the application.</p>
+										<p>I believe that, through this artifact, I have met or exceeded the course outcomes/course objectives for this enhancement, because this 
+											artifact demonstrates my ability to implement database solutions to accomplish project goals, my ability to solve problems involving 
+											database manipulation, my ability to handle errors pertaining to databases, and my ability to articulate my ideas through the working 
+											product, which aligns with the possible indicators of success for this enhancement. </p>
+										<p>The enhancing/modifying process for this artifact started with mapping out the layout of the GUI so that the application does not lose 
+											its look and feel between languages. Once the layout was mapped out, the next phase of the enhancement was to program the GUI within 
+											Java using Java Swing, ensuring that the correct Swing objects were used to complete the tasks of the application. After programming 
+											the application’s GUI, next was to integrate the database for the back-end server interaction. The primary goal was to avoid using a 
+											database that required a network connection, as this would either require the user to initialize the database prior to running the 
+											application or require an instance of the database to constantly be running. This goal was accomplished by using an embedded database, 
+											which will only work within the confines of the application. Once code for the database and data table was developed and integrated, 
+											further code was developed to import the data from the .csv file into the new database. Once integrated, and the data table within the 
+											database was completely populated, this code was removed, as the code was no longer needed (this code was saved within the application’s 
+											comments). After the database was created, the next step was to develop the data retrieval queries for the specific requirements and to
+											properly store that data within local variables that can be passed to the front-end of the application. After this, the last phase of the 
+											enhancement was to implement the button interactions, as well as the interactions to re-populate the data table with the search queries 
+											that correspond with those button interactions. The primary challenges I faced while developing this enhancement was working with Java 
+											Swing and working with Derby. I had previous experience working with Java Swing components, so after some initial research, I was able 
+											to overcome this challenge without too much difficulty, but Derby was new to me, as I had never worked with database drivers within Java. 
+											This resulted in extensive researching in the syntax of initializing the database, but once the database was initialized, I discovered 
+											that Derby utilizes the Structured Query Language (SQL) for database interaction, which having also used previously made creating the 
+											data table and populating the data table easier to navigate. This enhancement gave me the opportunity to learn new aspects of the Java 
+											language that I previously never worked with, as well as providing me with an opportunity to re-learn information that I had previously 
+											used, and though stressful, was rewarding to see the final product.</p>
 									</div>
 								</div>
 							</section>
