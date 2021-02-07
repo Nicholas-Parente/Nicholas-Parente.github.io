@@ -1,0 +1,1 @@
+Headache,Fever,Rash,/2nd Degree Burns,/Stitches,Broken Leg,//Stroke,/Rash,/

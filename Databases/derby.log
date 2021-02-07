@@ -1,0 +1,128 @@
+----------------------------------------------------------------
+Sat Feb 06 18:58:56 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-79c8-c54e-00000e23f558 
+on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Npare\Documents\NetBeansProjects\Databases
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 06 18:58:57 EST 2021:
+Shutting down instance a816c00e-0177-79c8-c54e-00000e23f558 on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+----------------------------------------------------------------
+Sat Feb 06 18:58:57 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 08264012-0177-79c8-c54e-00000e23f558 
+on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Npare\Documents\NetBeansProjects\Databases
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 06 18:58:57 EST 2021:
+Shutting down instance 08264012-0177-79c8-c54e-00000e23f558 on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+----------------------------------------------------------------
+Sat Feb 06 18:58:58 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6839c016-0177-79c8-c54e-00000e23f558 
+on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Npare\Documents\NetBeansProjects\Databases
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 06 18:58:58 EST 2021:
+Shutting down instance 6839c016-0177-79c8-c54e-00000e23f558 on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+----------------------------------------------------------------
+Sat Feb 06 18:58:58 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c851401a-0177-79c8-c54e-00000e23f558 
+on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Npare\Documents\NetBeansProjects\Databases
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 06 18:58:58 EST 2021:
+Shutting down instance c851401a-0177-79c8-c54e-00000e23f558 on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+----------------------------------------------------------------
+Sat Feb 06 18:58:58 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 286cc01e-0177-79c8-c54e-00000e23f558 
+on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Npare\Documents\NetBeansProjects\Databases
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 06 18:58:58 EST 2021:
+Shutting down instance 286cc01e-0177-79c8-c54e-00000e23f558 on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+----------------------------------------------------------------
+Sat Feb 06 18:58:58 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 888c4022-0177-79c8-c54e-00000e23f558 
+on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Npare\Documents\NetBeansProjects\Databases
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 06 18:58:58 EST 2021:
+Shutting down instance 888c4022-0177-79c8-c54e-00000e23f558 on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+----------------------------------------------------------------
+Sat Feb 06 18:58:59 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e8afc026-0177-79c8-c54e-00000e23f558 
+on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Npare\Documents\NetBeansProjects\Databases
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 06 18:58:59 EST 2021:
+Shutting down instance e8afc026-0177-79c8-c54e-00000e23f558 on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+----------------------------------------------------------------
+Sat Feb 06 18:58:59 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 48d7402a-0177-79c8-c54e-00000e23f558 
+on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Loaded from file:/D:/Derby/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Npare\Documents\NetBeansProjects\Databases
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 06 18:58:59 EST 2021:
+Shutting down instance 48d7402a-0177-79c8-c54e-00000e23f558 on database directory C:\Users\Npare\Documents\NetBeansProjects\Databases\Animals with class loader sun.misc.Launcher$AppClassLoader@5e481248 
